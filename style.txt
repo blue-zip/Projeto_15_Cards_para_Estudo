@@ -23,7 +23,7 @@
 .upper-part-back {
   text-align: center;
   background-color: lightgray;
-  color: purple;
+  color: deepblue;
   border: 3px solid purple;
   display: flex;
   justify-content: center;
